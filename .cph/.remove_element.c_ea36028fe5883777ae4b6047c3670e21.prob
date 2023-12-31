@@ -1,0 +1,1 @@
+{"name":"Local: remove_element","url":"d:\\Programming\\program\\Extra\\Array_in_c\\remove_element.c","tests":[{"id":1704006526777,"input":"5\n1 2 3 4 5\n2","output":"1 2 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\program\\Extra\\Array_in_c\\remove_element.c","group":"local","local":true}
