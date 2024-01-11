@@ -1,0 +1,1 @@
+{"name":"Local: Count_Me_3","url":"d:\\Programming\\program\\Extra\\Array_in_c\\Count_Me_3.c","tests":[{"id":1704976480362,"input":"2\ntheFox25IsBrave\nILoveYou100TimesAndSay2Also","output":"3 10 2\n7 16 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\program\\Extra\\Array_in_c\\Count_Me_3.c","group":"local","local":true}

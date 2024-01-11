@@ -1,0 +1,1 @@
+{"name":"Local: Count_Me","url":"d:\\Programming\\program\\Extra\\Array_in_c\\Count_Me.c","tests":[{"id":1704974574088,"input":"5\n1 4 2 5 3","output":"2 1"},{"id":1704974938515,"input":"4\n6 9 12 15","output":"2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\program\\Extra\\Array_in_c\\Count_Me.c","group":"local","local":true}
