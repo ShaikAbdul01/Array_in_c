@@ -1,0 +1,1 @@
+{"name":"Local: SelectionSortDeascending","url":"d:\\Programming\\program\\Extra\\Array_in_c\\SelectionSortDeascending.c","tests":[{"id":1705128416898,"input":"5\n30 10 50 20 40","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\program\\Extra\\Array_in_c\\SelectionSortDeascending.c","group":"local","local":true}
