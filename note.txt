@@ -1,0 +1,20 @@
+Some common types of matrices include:
+
+1. Square Matrix: A matrix is square if it has the same number of rows and columns.
+
+2. Diagonal Matrix: A matrix in which all the elements outside the main diagonal are zero.
+
+3. Identity Matrix: A special diagonal matrix where all the diagonal elements are 1.
+
+4. Row Matrix: A matrix with a single row.
+
+5. Column Matrix: A matrix with a single column.
+
+6. Zero Matrix: A matrix where all elements are zero.
+
+7. Symmetric Matrix: A square matrix that is equal to its transpose.
+
+8. Sparse Matrix: A matrix in which most of the elements are zero.
+
+These are just a few examples, and there are many other specialized types of matrices used in various mathematical and computational applications.
+
